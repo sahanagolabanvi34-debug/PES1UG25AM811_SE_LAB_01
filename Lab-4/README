@@ -1,1 +1,45 @@
+# SE Lab 4 — VibeCoding
 
+## Project: Word Scramble Arena
+
+**AI Tools Used:** ChatGPT and GitHub Copilot  
+**Programming Language:** Python  
+**Library:** Pygame
+
+## Task-wise Implementation and Git Commits
+
+| Task | Description | Commit ID |
+|---|---|---|
+| Task 1 | Fixed the word scramble answer-validation bug | [41258b4](https://github.com/sahanagolabanvi34-debug/62_scramble/commit/41258b4) |
+| Task 2 | Added Hint button with letter reveal and score deduction | [e1f4eb7](https://github.com/sahanagolabanvi34-debug/62_scramble/commit/e1f4eb7) |
+| Task 3 | Added 30-second countdown timer and automatic round reset | [4fa8d7e](https://github.com/sahanagolabanvi34-debug/62_scramble/commit/4fa8d7e) |
+| Task 4 | Added clickable letter tiles, Undo and Clear functionality | [49a6ef3](https://github.com/sahanagolabanvi34-debug/62_scramble/commit/49a6ef3) |
+
+## Original Development Repository
+
+https://github.com/sahanagolabanvi34-debug/62_scramble
+
+Each task was implemented and committed separately in the original development repository. The links above provide the actual task-wise code changes and Git commit history.
+
+## Lab-4 Deliverables
+
+- Before.mp4 — Original game recording
+- After.mp4 — Updated game recording
+- Lab4_AI_Chat_History_Complete.pdf — AI interaction documentation
+- main.py — Game entry point
+- game_engine.py — Game logic
+- text_box.py — Text input handling
+
+## Execution
+
+Install Pygame:
+
+`python -m pip install pygame`
+
+Run the game from the original development repository's root folder:
+
+`python main.py`
+
+## Conclusion
+
+The Word Scramble game was improved by correcting answer validation, introducing progressive hints, implementing a countdown timer, and providing interactive letter selection. GitHub Copilot assisted with feature implementation, while ChatGPT supported debugging and development guidance.
